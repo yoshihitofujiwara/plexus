@@ -1,0 +1,19 @@
+@import "_common/config";
+@import "_common/function";
+@import "_common/mixin";
+@import "_common/keyframe";
+@import "_common/reset";
+
+
+html,
+body{
+	overflow: hidden;
+	width: 100%;
+	height: 100%;
+}
+
+canvas{
+	width: 100%;
+	height: 100%;
+	// background: #010101;
+}
